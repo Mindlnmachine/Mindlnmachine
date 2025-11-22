@@ -5,7 +5,7 @@ Email Me 👉🏻 ✉️ **vedantlonkar500@gmail.com** For Collaboration/Project
 
 - 🔭 **I’m currently working on:** Fraud Detection System
 - 🌱 **I’m currently learning:** Agentic AI
-- 🤔 **I’m looking for help with:** Fraud Detection System
+<!-- **I’m looking for help with:** Fraud Detection Syst-->
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vedantlonkar500@gmail.com
 - 😄 **Pronouns:**  Vedant Lonkar
@@ -44,4 +44,3 @@ Email Me 👉🏻 ✉️ **vedantlonkar500@gmail.com** For Collaboration/Project
 ---
 [![](https://visitcount.itsvg.in/api?id=Mindlnmachine&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
