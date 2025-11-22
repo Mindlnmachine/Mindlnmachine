@@ -5,7 +5,6 @@ Email Me 👉🏻 ✉️ **vedantlonkar500@gmail.com** For Collaboration/Project
 
 - 🔭 **I’m currently working on:** Fraud Detection System
 - 🌱 **I’m currently learning:** Agentic AI
-<!-- **I’m looking for help with:** Fraud Detection Syst-->
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vedantlonkar500@gmail.com
 - 😄 **Pronouns:**  Vedant Lonkar
