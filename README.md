@@ -3,7 +3,7 @@
 
 Email Me 👉🏻 ✉️ **vedantlonkar500@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Fraud Detection System
+- 🔭 **I’m currently working on:** Automated Vulnerability Scanning & Smart Fix Engine
 - 🌱 **I’m currently learning:** Agentic AI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vedantlonkar500@gmail.com
