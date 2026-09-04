@@ -1,7 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on: Automated Vulnerability Scanning & Smart Fix Engine<br>🌱 I’m currently learning: Agentic AI<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: vedantlonkar500@gmail.com<br>😄 Pronouns: Vedant Lonkar<br>⚡ Fun fact: I talk to AI so much, even my coffee thinks it’s machine learning.
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Mindlnmachine's GitHub profile" src="dark_mode.svg" />
+</picture>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant.lonkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-lonkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantlonkar500@gmail.com) 
 
